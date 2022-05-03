@@ -1,6 +1,7 @@
 # Auto-Hotkey-scripts
 AHK-Scripts I use on a daily basis
 
+You have to install the AutoHotkey application first.
 You can use this files in autostart by downloading them and putting them into the startup folder.
 Use Win + R and then: "shell:startup" to get into the startup folder
 
