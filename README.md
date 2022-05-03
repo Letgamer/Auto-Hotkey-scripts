@@ -8,6 +8,7 @@ You can use this files in autostart by downloading them and putting them into th
 Use Win + R and then: "shell:startup" to get into the startup folder
 
 <h2 >mouse.ahk</h2>
+
 - F12 converts every Windows into Fullscreen by removing the Taskbar, the window and everything else
 
 - if you don't have a Logitech G502 remove everything from line 16 to 48
